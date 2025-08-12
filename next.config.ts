@@ -35,7 +35,7 @@ const nextConfig: NextConfig = {
   // Force HTTPS in production
   // ...(process.env.NODE_ENV === 'production' && {
   //   assetPrefix: 'https://yourdomain.com',
-  }),
+  // }),
 };
 
 export default nextConfig;
